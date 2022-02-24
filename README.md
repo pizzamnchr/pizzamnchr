@@ -1,4 +1,4 @@
-<img src='https://github.com/pizzamnchr/pizzamnchr/blob/main/neverGetsOld.gif?raw=true' />
+<img src='https://github.com/pizzamnchr/pizzamnchr/blob/main/helloThere.gif?raw=true' />
 
 **Salutations fellow human** 👋
 - My name's Brandon and I'm currently a junior majoring in CS at the University of Florida 🐊
