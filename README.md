@@ -5,5 +5,7 @@
 
 **Notable accomplishments**
 - Completed all the mainline Halo games on legendary difficulty
-- Got the Platinum Trophy (got all the achievements) for Marvel's Spider-Man PS5
-- Got the Platinum Trophy for Resident Evil 3 Remake
+- Got the Platinum Trophy (got all the achievements) for:
+  - Marvel's Spider-Man
+  - Resident Evil 3 Remake
+  - Elden Ring
