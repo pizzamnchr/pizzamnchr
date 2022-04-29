@@ -7,7 +7,8 @@
 - January - Do Androids Dream of Electric Sheep?
 - February - Project Hail Mary
 - March - Berserk Deluxe Edition Volume 1
-- April - The Abandoned 
+- April - The Abandoned
+- May - Blood, Sweat, and Pixels + The Creative Gene + The Hobbit
 
 **Notable accomplishments**
 - Completed all the mainline Halo games on legendary difficulty
