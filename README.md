@@ -8,8 +8,8 @@
 - February - Project Hail Mary
 - March - Berserk Deluxe Edition Volume 1
 - April - The Abandoned
-- May - Blood, Sweat, and Pixels + The Creative Gene + Mistborn: The Final Empire
-- June - The Hobbit + The Last Wish
+- May - Blood, Sweat, and Pixels
+- June - Mistborn
 
 **Notable accomplishments**
 - Completed all the mainline Halo games on legendary difficulty
